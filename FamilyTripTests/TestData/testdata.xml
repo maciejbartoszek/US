@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testData>
+  <testcase>
+    <trunksize>4</trunksize>
+    <luggagecount>4</luggagecount>
+  </testcase>
+  <testcase>
+    <trunksize>4</trunksize>
+    <luggagecount>0</luggagecount>
+  </testcase>
+  <testcase>
+    <trunksize>4</trunksize>
+    <luggagecount>3</luggagecount>
+  </testcase>
+</testData>

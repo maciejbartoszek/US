@@ -1,0 +1,11 @@
+C:\PLIKI\UCZELNIA\UnitTestsDemo\UnitTestsDemo\bin\Debug\UnitTestsDemo.exe.config
+C:\PLIKI\UCZELNIA\UnitTestsDemo\UnitTestsDemo\bin\Debug\UnitTestsDemo.exe
+C:\PLIKI\UCZELNIA\UnitTestsDemo\UnitTestsDemo\bin\Debug\UnitTestsDemo.pdb
+C:\PLIKI\UCZELNIA\UnitTestsDemo\UnitTestsDemo\obj\Debug\UnitTestsDemo.exe
+C:\PLIKI\UCZELNIA\UnitTestsDemo\UnitTestsDemo\obj\Debug\UnitTestsDemo.pdb
+C:\PLIKI\UCZELNIA\UnitTestsDemo\UnitTestsDemo\obj\Debug\UnitTestsDemo.csprojResolveAssemblyReference.cache
+C:\UCZELNIA\UnitTestsDemo\UnitTestsDemo\bin\Debug\UnitTestsDemo.exe.config
+C:\UCZELNIA\UnitTestsDemo\UnitTestsDemo\bin\Debug\UnitTestsDemo.exe
+C:\UCZELNIA\UnitTestsDemo\UnitTestsDemo\bin\Debug\UnitTestsDemo.pdb
+C:\UCZELNIA\UnitTestsDemo\UnitTestsDemo\obj\Debug\UnitTestsDemo.exe
+C:\UCZELNIA\UnitTestsDemo\UnitTestsDemo\obj\Debug\UnitTestsDemo.pdb
